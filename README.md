@@ -1,4 +1,4 @@
-# Pacman IA
+# Pacman AI
 
 The first Computer Science project at [ENSSAT](http://www.enssat.fr).
 
